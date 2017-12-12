@@ -1,8 +1,9 @@
 
 
 # Welcome to my page!
--- А по-русски можно?
--- [Да](https://thetafelius.github.io/indexRU.html)
+— А по-русски можно?
+
+— [Да.](https://thetafelius.github.io/indexRU.html)
 
 You can use the [editor on GitHub](https://github.com/ThetaFelius/ThetaFelius.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
