@@ -1,6 +1,10 @@
+As Kanye West said:
 
+> We're living the future so
+> the present is our past.
 
-# Welcome to my page!
+— Welcome to my page!
+
 — А по-русски можно?
 
 — [Да](https://thetafelius.github.io/indexRu.html).
