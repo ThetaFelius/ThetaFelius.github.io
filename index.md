@@ -4,12 +4,13 @@
 
 — [Да](https://thetafelius.github.io/indexRu.html).
 
-### Hi!
+## Hi!
 
 My name is Theta Felius. I'm a hitchiking traveller and freelancer. ~~You can read my CV [here](https://thetafelius.github.io/cv.html)~~.
 
-
-
-You can use the [editor on GitHub](https://github.com/ThetaFelius/ThetaFelius.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Abilities list:
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
