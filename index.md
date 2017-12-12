@@ -6,7 +6,9 @@
 
 ### Hi!
 
-My name is Theta Felius. I'm a hitchiking traveller and freelancer.
+My name is Theta Felius. I'm a hitchiking traveller and freelancer. ~~You can read my CV [here](https://thetafelius.github.io/cv.html)~~.
+
+
 
 You can use the [editor on GitHub](https://github.com/ThetaFelius/ThetaFelius.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
