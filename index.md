@@ -8,8 +8,17 @@
 
 My name is Theta Felius. I'm a hitchiking traveller and freelancer. ~~You can read my CV [here](https://thetafelius.github.io/cv.html)~~.
 
-### Abilities list:
-* Programming
-   * On Haskell
+### My Abilities are:
+* Programming on:
+  * Haskell,
      
-     With GUI, Monads, MonadTransformers, Beautiful syntax extensions, Template Haskell and so on
+     with GUI, Monads, MonadTransformers, Beautiful syntax extensions, Template Haskell and so on;
+     
+  * C/C++ (tarter level, enough to make homework for students);
+* Making 3D models and 2d technical drawing, for devices or electrical circuits, using:
+  * Kompas 3D (experienced user);
+  * Altium Designer (starter level);
+* Knowledge of languages:
+  * English (enough to understand (especially technical texts), write, and slowly talk);
+  * Russian (native speaker);
+  * Translation from English to Russian with high quality, and without stupid mistakes of synonyms ignorance;
