@@ -1,7 +1,7 @@
 
 # Добро пожаловать на мою страницу!
--- Could you speake English, please?
--- [Yes!](https://thetafelius.github.io/indexRU.html)
+— Could you speake English, please?
+— [Yes!](https://thetafelius.github.io/index.html)
 
 You can use the [editor on GitHub](https://github.com/ThetaFelius/ThetaFelius.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
