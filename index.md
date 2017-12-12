@@ -11,4 +11,4 @@ My name is Theta Felius. I'm a hitchiking traveller and freelancer. ~~You can re
 ### Abilities list:
 * Programming
    * On Haskell
-      * With GUI, Monads, MonadTransformers, Beautiful syntax extensions, Template Haskell and so on
+     With GUI, Monads, MonadTransformers, Beautiful syntax extensions, Template Haskell and so on
