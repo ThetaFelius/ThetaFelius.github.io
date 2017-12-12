@@ -23,4 +23,4 @@ My name is **Theta Felius**. I'm a hitchiking traveller and freelancer. ~~You ca
     enough to understand (especially technical texts), write, and slowly talk;
   * **Russian** 
     **_native_** speaker;
-  * **Translation** from **English** to **Russian** with high quality, and without stupid mistakes of synonyms ignorance;
+  * **Translation** from English to Russian with high quality, and without stupid mistakes of synonyms ignorance;
