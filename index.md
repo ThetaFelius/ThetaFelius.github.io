@@ -6,7 +6,7 @@
 
 ## Hi!
 
-My name is **Theta Felius**. I'm a hitchiking traveller and freelancer. ~~You can read my CV [here](https://thetafelius.github.io/cv.html)~~.
+My name is **Theta Felius**. I'm a hitchiking traveller and freelancer. ~~You can read my [__CV__](https://thetafelius.github.io/cv.html) there~~.
 
 ### My Abilities are:
 * **Programming** on:
