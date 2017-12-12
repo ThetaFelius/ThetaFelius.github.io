@@ -2,7 +2,7 @@
 # Добро пожаловать на мою страницу!
 — Could you speake English, please?
 
-— [Yes!](https://thetafelius.github.io/index.html)
+— [Yes](https://thetafelius.github.io/index.html)!
 
 
 
