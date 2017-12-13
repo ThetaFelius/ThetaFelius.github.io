@@ -3,15 +3,16 @@
 
 @import "{{ site.theme }}";
 
+
 #container > div
 {
     display: inline-block;
-    border: solid 1px #000;
+    border: solid 0px #000;
 }
 #container
 {
-    border: solid 1px #ff0000;
+    border: solid 0px #ff0000;
     text-align: center;
     margin: 0px auto;
     width: 40%;
-}   
+} 
