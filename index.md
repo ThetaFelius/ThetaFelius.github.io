@@ -1,3 +1,7 @@
+<head>
+  <title>HTML Reference</title>
+</head>
+
 <div id="container">
   <div align="left">
   — Welcome to my page!<br>
