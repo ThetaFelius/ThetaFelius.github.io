@@ -1,9 +1,9 @@
 <div id="container">
-  <div></div>
-  <div>
+  <div>something</div>
+  <div align="left">
   — Welcome to my page!<br>
   — А по-русски можно? <br>
-  — [Да](https://thetafelius.github.io/indexRu.html).
+  — <a href="https://thetafelius.github.io/indexRu.html">Да</a>.
   </div>
 </div>
 
