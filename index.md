@@ -1,5 +1,4 @@
 <div id="container">
-  <div>something</div>
   <div align="left">
   — Welcome to my page!<br>
   — А по-русски можно? <br>
