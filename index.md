@@ -1,6 +1,9 @@
+<div align="right">
+
 — Welcome to my page!<br>
 — А по-русски можно? <br>
 — [Да](https://thetafelius.github.io/indexRu.html).
+</div>
 
 ## Hi!
 
