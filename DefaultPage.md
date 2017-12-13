@@ -58,3 +58,58 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
   <summary>Q1: What is the best Language in the World? </summary>
    A1: JavaScript 
 </details>
+
+a[href="#spoiler"] {
+  text-decoration: none !important;
+  cursor: default;
+  margin-bottom: 10px;
+  padding: 10px;
+  background-color: #FFF8DC;
+  border-left: 2px solid #ffeb8e;
+  display: inline-block;
+}
+a[href="#spoiler"]::after {
+  content: attr(title);
+  color: #FFF8DC;
+  padding: 0 0.5em;
+}
+a[href="#spoiler"]:hover::after,
+a[href="#spoiler"]:active::after {
+  cursor: auto;
+  color: black;
+  transition: color .5s ease-in-out;
+}
+
+
+	
+
+If editing the CSS is an option for you, you can simply use
+
+[](#spoiler "Spoiler Filled Text")
+
+and then use (pure) CSS to give the correct appearance.
+
+a[href="#spoiler"] {
+  text-decoration: none !important;
+  cursor: default;
+  margin-bottom: 10px;
+  padding: 10px;
+  background-color: #FFF8DC;
+  border-left: 2px solid #ffeb8e;
+  display: inline-block;
+}
+a[href="#spoiler"]::after {
+  content: attr(title);
+  color: #FFF8DC;
+  padding: 0 0.5em;
+}
+a[href="#spoiler"]:hover::after,
+a[href="#spoiler"]:active::after {
+  cursor: auto;
+  color: black;
+  transition: color .5s ease-in-out;
+}
+
+<p>
+  <a href="#spoiler" title="Spoiler Filled Text"></a>
+</p>
