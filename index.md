@@ -8,12 +8,6 @@
 </div>
 
 
-<div id="container">
-    <div>Div 1</div>
-    <div>Div 2</div>
-</div>
-
-
 ## Hi!
 
 My name is **Theta Felius**. I'm a hitchiking traveller and freelancer. ~~You can read my [__CV__](https://thetafelius.github.io/cv.html) there~~.
