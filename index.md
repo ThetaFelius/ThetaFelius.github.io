@@ -29,6 +29,6 @@ My name is **Theta Felius**. I'm a hitchiking traveller and freelancer. ~~You ca
   * **Translation** from English to Russian with high quality, and without stupid mistakes of synonyms ignorance;
 
 <details> 
-<summary>#### Offline abilities:
+<summary>#### Offline abilities: </summary>
 * Us
 </details>
