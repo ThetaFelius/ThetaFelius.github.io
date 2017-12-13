@@ -4,13 +4,15 @@
 @import "{{ site.theme }}";
 
 
-.container {
-  border: 0px solid #000;
-  display:flex;
-  justify-content: center;
-  padding: 3px;
+#container > div
+{
+    display: inline-block;
+    border: solid 0px #000;
 }
-.container > div {
-  border: 0px solid #000;
-  margin:2px;
+#container
+{
+    border: solid 0px #ff0000;
+    text-align: right;
+    margin: 0px auto;
+    width: 40%;
 }
