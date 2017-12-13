@@ -7,6 +7,11 @@
 </div>
 </div>
 
+<div id="container">
+    <div>Div 1</div>
+    <div>Div 2</div>
+</div>
+
 
 ## Hi!
 
