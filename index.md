@@ -18,10 +18,12 @@ My name is **Theta Felius**. I'm a hitchhiking traveler and freelancer. ~~You ca
   with GUI, Monads, MonadTransformers, Beautiful syntax extensions, Template Haskell and so on;
    
 * **C/C++** (starter level, enough to make homework for students);
-Designing and engineering **3D models** and **2d technical drawing**, for mechanical devices or electrical circuits, using:
+
+**Designing** and **engineering** **3D models** and **2d technical drawing**, for mechanical devices or electrical circuits, using:
   * **Kompas 3D** (experienced user);
   * **Altium Designer** (starter level);
-Knowledge of:
+
+**Knowledge** of:
 * languages:
   * **English** 
     enough to understand (especially technical texts), write, and slowly talk;
