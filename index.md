@@ -1,7 +1,6 @@
 # — Welcome to my page!
 
-— А по-русски можно?
-
+— А по-русски можно? <br>
 — [Да](https://thetafelius.github.io/indexRu.html).
 
 ## Hi!
