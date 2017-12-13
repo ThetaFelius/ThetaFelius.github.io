@@ -1,4 +1,4 @@
-<div id="container">
+ <div id="container">
   <div align="left">
   — Welcome to my page!<br>
   — А по-русски можно? <br>
@@ -7,11 +7,11 @@
 </div>
 
 
-## Hi!
+### Hi!
 
 My name is **Theta Felius**. I'm a hitchiking traveller and freelancer. ~~You can read my [__CV__](https://thetafelius.github.io/cv.html) there~~.
 
-### My Abilities are:
+### Abilties and knowledge:
 * **Programming** on:
   * **Haskell**,
      
@@ -27,3 +27,8 @@ My name is **Theta Felius**. I'm a hitchiking traveller and freelancer. ~~You ca
   * **Russian** 
     **_native_** speaker;
   * **Translation** from English to Russian with high quality, and without stupid mistakes of synonyms ignorance;
+
+<details> 
+<summary>#### Offline abilities:
+* Us
+</details>
