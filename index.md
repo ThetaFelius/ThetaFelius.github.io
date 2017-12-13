@@ -1,9 +1,21 @@
 <div align="right">
-
+<div align="left">
 — Welcome to my page!<br>
 — А по-русски можно? <br>
 — [Да](https://thetafelius.github.io/indexRu.html).
 </div>
+</div>
+
+
+<table>
+  <tr>
+    <td></td>
+    <td>
+       — Welcome to my page!<br>
+       — А по-русски можно? <br>
+       — [Да](https://thetafelius.github.io/indexRu.html).</td>
+  </tr>
+</table>
 
 ## Hi!
 
